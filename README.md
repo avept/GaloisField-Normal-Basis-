@@ -4,7 +4,7 @@
 CMake and at least C++17 
 
 ## Overview
-Implementation of the Galois field GF(2^293) in a normal basis using a polynomial generator
+Implementation of the Galois field GF(2^293) in a normal basis
 
 ## Features
 - **Adding operation**
